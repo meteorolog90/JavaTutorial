@@ -1,5 +1,6 @@
 package enumeracia;
 
-public class Velicina {
+public enum Velicina {
+    MALA, SREDNJA, VELIKA, EKSTRA_VELIKA   
 
 }
